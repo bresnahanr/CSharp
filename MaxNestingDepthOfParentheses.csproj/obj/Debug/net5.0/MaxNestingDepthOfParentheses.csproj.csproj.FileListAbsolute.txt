@@ -1,0 +1,5 @@
+C:\Users\rbres\CSharp\MaxNestingDepthOfParentheses.csproj\obj\Debug\net5.0\MaxNestingDepthOfParentheses.csproj.csprojAssemblyReference.cache
+C:\Users\rbres\CSharp\MaxNestingDepthOfParentheses.csproj\obj\Debug\net5.0\MaxNestingDepthOfParentheses.csproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbres\CSharp\MaxNestingDepthOfParentheses.csproj\obj\Debug\net5.0\MaxNestingDepthOfParentheses.csproj.AssemblyInfoInputs.cache
+C:\Users\rbres\CSharp\MaxNestingDepthOfParentheses.csproj\obj\Debug\net5.0\MaxNestingDepthOfParentheses.csproj.AssemblyInfo.cs
+C:\Users\rbres\CSharp\MaxNestingDepthOfParentheses.csproj\obj\Debug\net5.0\MaxNestingDepthOfParentheses.csproj.csproj.CoreCompileInputs.cache
