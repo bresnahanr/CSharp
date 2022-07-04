@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rbres\\CSharp\\Stack.csproj\\Stack.csproj.csproj",
-      "projectName": "Stack.csproj",
-      "projectPath": "C:\\Users\\rbres\\CSharp\\Stack.csproj\\Stack.csproj.csproj",
+      "projectUniqueName": "C:\\Users\\rbres\\CSharp\\Stack.csproj\\StackTest.csproj.csproj",
+      "projectName": "StackTest.csproj",
+      "projectPath": "C:\\Users\\rbres\\CSharp\\Stack.csproj\\StackTest.csproj.csproj",
       "packagesPath": "C:\\Users\\rbres\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rbres\\CSharp\\Stack.csproj\\obj\\",
       "projectStyle": "PackageReference",
